@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 <h3 align="center">A Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **Software Devloper in Hoping Mind**
+- 🔭 I’m currently working on **Frontend Developer at Redcliffe labs**
 
-- 🌱 I’m currently learning **JQury,TailwindCss,Next.js, Shopify,Liquid,etc**
+- 🌱 I’m currently learning **React Native,Next.js,Django**
 
-- 💬 Ask me about **CSS3, HTML5, JavaScript ,C++ ,React, PHP, C, SQL, Git etc**
+- 💬 Ask me about **React, Redux, JavaScript, MUI, TypeScript, PHP, CSS3, HTML5, SQL, C++/C,Python, Git etc**
 
 - 📫 How to reach me **kumarankush13701@gmail.com**
 
