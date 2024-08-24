@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Frontend Developer at Redcliffe labs**
 
-- 🌱 I’m currently learning **React Native,Next.js,Django**
+- 🌱 I’m currently learning **React Native,Django**
 
-- 💬 Ask me about **React, Redux, JavaScript, MUI, TypeScript, PHP, CSS3, HTML5, SQL, C++/C,Python, Git etc**
+- 💬 Ask me about **React, Redux, Next.js, JavaScript, MUI, TypeScript, PHP, CSS3, HTML5, SQL, C++/C,Python, Git etc**
 
 - 📫 How to reach me **kumarankush13701@gmail.com**
 
