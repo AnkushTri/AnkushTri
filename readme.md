@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 <h3 align="center">A Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **Frontend Developer at Redcliffe labs**
+- 🔭 I’m currently working on **Full Stack Developer at Redcliffe labs**
 
-- 🌱 I’m currently learning **React Native,Django**
+- 🌱 I’m currently learning **System Design, Query Optimization, Third party integration**
 
-- 💬 Ask me about **React, Redux, Next.js, JavaScript, MUI, TypeScript, PHP, CSS3, HTML5, SQL, C++/C,Python, Git etc**
+- 💬 Ask me about **React, Redux, Next.js, JavaScript, Django Rest framework, MUI, TypeScript, Python, CSS3, HTML5, SQL, C++/C, PHP, Git etc**
 
 - 📫 How to reach me **kumarankush13701@gmail.com**
 
