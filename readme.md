@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
-<h3 align="center">A Frontend Developer from India</h3>
+<h3 align="center">A Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack Developer at Redcliffe labs**
 
